@@ -19,7 +19,7 @@ Este es un proyecto que recopila datos de precios de propiedades en Chile. Los d
 
 Aquí está una captura de pantalla de la visualización de los datos extraídos:
 
-![Visualización de los datos](webscrapping-chile-houses/Screenshot_1.png)
+![Visualización de los datos](webscrapping-chile-houses/screenshot_1.png)
 
 ## Contribuciones
 
